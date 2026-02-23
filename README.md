@@ -1,24 +1,20 @@
 # SNHU-CS-250-Portfolio
 
-Sprint Review and Retrospective - SNHU Travel Project
+# Sprint Review and Retrospective - SNHU Travel Project
+**Course:** CS-250: Software Development Lifecycle  
+**Student:** Moe Holder  
+**Date:** February 2026
 
-Course: CS-250: Software Development Lifecycle
-
-Student: Moe Holder
-
-Date: February 2026
-
-
-**Portfolio Artifact**
+## Portfolio Artifact
 
 This repository contains my Sprint Review and Retrospective from the SNHU Travel project, where I applied Scrum-Agile methodologies across multiple roles (Product Owner, Developer, Tester, and Scrum Master). This deliverable demonstrates my understanding of Agile principles, iterative development, and effective team collaboration in software development.
 
-**Included Documents:**
+## Included Documents:
 
-Sprint Review and Retrospective (comprehensive analysis of the SNHU Travel development process)
+- **Sprint Review and Retrospective** (comprehensive analysis of the SNHU Travel development process)
+- **Agile Presentation** (PowerPoint explaining Scrum-Agile to leadership)
 
-Agile Presentation (PowerPoint explaining Scrum-Agile to leadership)
-
+## Portfolio Reflection
 
 **How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?**
 
